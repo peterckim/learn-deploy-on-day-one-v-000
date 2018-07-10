@@ -63,7 +63,13 @@ a:visited {
   margin: 0 auto;
 }
 
-#first
+#firstname-lastname-cover {
+    background-image: url("link to my imgur cover photo");
+  }
+ 
+  #firstname-lastname-card {
+    background-image: url("link to my imgur card photo");
+  }
 
 /* INDEX.HTML STYLES
 ======================== */
